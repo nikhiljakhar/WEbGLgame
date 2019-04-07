@@ -1,6 +1,6 @@
 # CONTROLS :-
- UP key - jump
- DOWN key - duck
- RIGHT key - move right
- LEFT key - move left
- G - gray scale
+1. UP key - jump
+2. DOWN key - duck
+3. RIGHT key - move right
+4. LEFT key - move left
+5. G - gray scale
